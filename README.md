@@ -2,11 +2,14 @@
 
 <h3>Algunos programas que uso son: </h3>
 
+<!--Badges de: https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages-->
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
 </p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LizetCh)](https://git.io/streak-stats)
 
