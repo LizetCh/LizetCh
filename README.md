@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LizetCh)](https://git.io/streak-stats)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizetCh&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizetCh&layout=compact&theme=github_dark)
 
 <!--
 **LizetCh/LizetCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
