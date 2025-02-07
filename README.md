@@ -10,8 +10,6 @@
   
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LizetCh)](https://git.io/streak-stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizetCh&layout=compact&theme=github_dark)
 
