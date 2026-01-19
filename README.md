@@ -1,4 +1,8 @@
-# Hola Soy Liz! 👋
+# Hola Soy Liz! 👋 
+
+Estudiante de Tecnologías de Información con un fuerte interés en el desarrollo de soluciones tecnológicas y mejora de procesos. 
+Apasionada por el diseño visual, la lógica detrás del código y la gestión de proyectos. 
+Destaco por mi capacidad para aprender rápidamente, trabajar en equipo y liderar proyectos de manera efectiva.
 
 <h3>Algunos programas que uso son: </h3>
 
